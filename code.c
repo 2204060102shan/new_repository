@@ -2,6 +2,12 @@
 int main()
 {
 
-	printf(%d);
+
+
+
+
+	int a;
+	int b;
+	int c;
 	return 0;
 }
