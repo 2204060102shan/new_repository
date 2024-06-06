@@ -6,8 +6,7 @@ int main()
 
 
 
-	int a;
-	int b;
-	int c;
+	printf("我要跑了");
+	
 	return 0;
 }
